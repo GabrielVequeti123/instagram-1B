@@ -1,0 +1,91 @@
+* {
+
+    padding: 0;
+    margin: 0;
+    border: 0;
+
+}
+
+main {
+
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+
+}   
+
+main img {
+
+    height: 7vh;
+    margin-left: 23%;
+    margin-top: 39%;
+    text-align: center;
+
+}
+
+main p {
+
+    color: aliceblue;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.7em;
+    text-align: center;
+    margin-top: -22vh;
+    text-align: center;
+
+}
+
+main h1 {
+
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.7em;
+    text-align: center;
+    color: #ff0000;
+    text-align: center;
+
+}
+
+main h2 {
+
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.7em;
+    text-align: center;
+    color: rgb(209, 15, 209);
+    text-align: center;
+    
+}
+main button {
+
+    border: 0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.3em;
+    border-radius: 9px;
+    height: 6vh;
+    width: 36vh;
+    margin-left: 4.6vh;
+    margin-top: 40%;
+    color: aliceblue;
+    background-color: rgb(49, 160, 235);
+
+}
+
+
+section button {
+
+    height: 6vh;
+    width: 36vh;
+    border: 0;
+    border-radius: 9px;
+    font-size: 1.3em;
+    background-color: rgb(49, 160, 235);
+    
+}
+
+footer img {
+
+   height: 13vh;
+   margin-left: 35%;
+   
+}
+
+
+
